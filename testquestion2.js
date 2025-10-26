@@ -1,7 +1,7 @@
 let pokemons = ["Pikachu","Raichu","Bulbasaur","Mewtwo","Charizard" ];
 
 
-function setup() {
-
+function draw() {
+for (let count = 1; count < 6; count++) {}
     
 }
