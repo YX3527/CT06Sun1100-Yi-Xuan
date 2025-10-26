@@ -1,4 +1,4 @@
-let pokemons = ["Pikachu","Raichu","Bulbasaur","Mewtwo","Charizard" ]
+let pokemons = ["Pikachu","Raichu","Bulbasaur","Mewtwo","Charizard" ];
 
 function setup() {
     createCanvas(200, 300);
